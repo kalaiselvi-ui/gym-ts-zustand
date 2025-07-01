@@ -83,7 +83,6 @@ const Benefits = () => {
               icon={benefit.icon}
               title={benefit.title}
               description={benefit.description}
-              setSelectedPage={setSelectedPage}
             />
           ))}
         </motion.div>

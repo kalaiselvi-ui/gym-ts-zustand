@@ -1,5 +1,4 @@
 import { ClassesType } from "@/shared/types";
-import React from "react";
 
 const Class = ({ name, desc, image }: ClassesType) => {
   const overlayStyle = `p-5 absolute z-30 flex h-[380px] w-[450px] flex flex-col items-center justify-center

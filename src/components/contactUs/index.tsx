@@ -1,7 +1,6 @@
 import HTitle from "@/shared/HTitle";
 import { SelectedPage } from "@/shared/types";
 import { motion } from "framer-motion";
-import React from "react";
 import { useForm } from "react-hook-form";
 import ContactUsPageGraphic from "@/assets/ContactUsPageGraphic.png";
 import useSelectedPageStore from "@/stores/useSelectedPageStore";

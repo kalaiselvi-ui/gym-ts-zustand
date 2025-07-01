@@ -1,7 +1,4 @@
-import React from "react";
 import Logo from "@/assets/Logo.png";
-
-type Props = {};
 
 const Footer = () => {
   return (

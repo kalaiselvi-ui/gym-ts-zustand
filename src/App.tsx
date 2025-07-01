@@ -12,7 +12,7 @@ function App() {
   // const [selectedPage, setSelectedPage] = useState<SelectedPage>(
   //   SelectedPage.Home
   // );
-  const selectedPage = useSelectedPageStore((state) => state.selectedPage);
+  // const selectedPage = useSelectedPageStore((state) => state.selectedPage);
   const setSelectedPage = useSelectedPageStore(
     (state) => state.setSelectedPage
   );

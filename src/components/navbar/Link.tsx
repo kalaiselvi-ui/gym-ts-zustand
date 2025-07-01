@@ -1,6 +1,5 @@
 import type { SelectedPage } from "@/shared/types";
 import useSelectedPageStore from "@/stores/useSelectedPageStore";
-import React from "react";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
 type Props = {
